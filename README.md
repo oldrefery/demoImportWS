@@ -1,3 +1,10 @@
+<img width="1100" alt="Screenshot 2024-11-01 at 22 54 05" src="https://github.com/user-attachments/assets/a62c83c1-9afe-4904-9d21-c4777d02000c">
+Can't add import Text from react-native
+
+<img width="1334" alt="Screenshot 2024-11-01 at 22 55 12" src="https://github.com/user-attachments/assets/ba0cbcb7-816d-43ab-83a7-5f9655c1a5fa">
+Can't add StyleSheet from react-native
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
